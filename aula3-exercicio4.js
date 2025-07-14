@@ -11,7 +11,7 @@ const carro = {
    modelo: 'Astra Hatch Advantage 8v',
    ano: 2008,
    cor: 'Vermelho',
-   ligado: false,
+   ligado: false
 };
 
 Object.defineProperty(carro, 'placa', {
